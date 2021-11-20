@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="bubbles.svg"
+    inkscape:export-filename="/tmp/bubbles.png"
+    viewBox="0 0 744.09 1052.4"
+    inkscape:export-xdpi="200"
+    version="1.1"
+    inkscape:export-ydpi="200"
+    inkscape:version="0.47 r22583"
+  >
+  <defs
+      id="defs4"
+    >
+    <radialGradient
+        id="radialGradient3713"
+        gradientUnits="userSpaceOnUse"
+        cy="300.93"
+        cx="305.71"
+        gradientTransform="matrix(1 0 0 .76271 0 71.408)"
+        r="168.57"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3661"
+          style="stop-color:#f1f6f9;stop-opacity:.51534"
+          offset="0"
+      />
+      <stop
+          id="stop3663"
+          style="stop-color:#d0ecf6;stop-opacity:.92157"
+          offset=".89786"
+      />
+      <stop
+          id="stop3667"
+          style="stop-color:#b9d8f0;stop-opacity:.96078"
+          offset=".94118"
+      />
+      <stop
+          id="stop3665"
+          style="stop-color:#a7cfee"
+          offset="1"
+      />
+    </radialGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="26"
+      pagecolor="#ffffff"
+      inkscape:window-height="718"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.70979501"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer2"
+      inkscape:cx="382.39845"
+      inkscape:cy="625.64411"
+      inkscape:window-width="1024"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer2"
+      inkscape:label="bubbles"
+      inkscape:groupmode="layer"
+    >
+    <g
+        id="g3705"
+        transform="matrix(.26333 0 0 .26333 164.41 133.88)"
+      >
+      <path
+          id="path2816"
+          sodipodi:rx="168.57143"
+          sodipodi:ry="128.57143"
+          style="fill-rule:evenodd;color:#000000;fill:url(#radialGradient3713)"
+          sodipodi:type="arc"
+          d="m474.29 300.93a168.57 128.57 0 1 1 -337.14 0 168.57 128.57 0 1 1 337.14 0z"
+          transform="matrix(1.0778 0 0 1.4131 -22.172 213.57)"
+          sodipodi:cy="300.93362"
+          sodipodi:cx="305.71429"
+      />
+      <path
+          id="path3642"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;fill:#fffbfe"
+          d="m263.46 487.3c-62.944 30.015-90.829 79.999-100.74 139.48-13.728-62.642-3.1256-134.14 100.74-139.48z"
+      />
+      <path
+          id="path3644"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m320.88 550.23c15.201 10.46 34.28 16.477 36.673 34.985 10.996-9.8643 19.164-20.671 35.423-28.781-15.273-23.899-36.051-40.811-68.633-39.709-4.1602 9.3442-2.7877 22.419-3.4633 33.506z"
+      />
+      <path
+          id="path3646"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m450.83 688.88c2.63 84.7-48.49 101.15-114.82 107.77 59.55-14.65 103.95-44.45 114.82-107.77z"
+      />
+      <path
+          id="path3648"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m255 689.58c-8.9862 16.476-23.185 24.611-41.561 26.064 22.347 26.257 46.534 46.256 78.192 40.857v-37.335c-13.799-5.8894-26.57-14.349-36.63-29.586z"
+      />
+      <path
+          id="path3650"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m164.84 745.94c6.3446 2.1086 12.553 4.3533 13.384 11.975 2.4253-6.0793 4.2466-12.36 17.611-14.793-7.9482-8.1539-18.603-12.248-30.29-14.793-1.4536 6.4796-2.9169 12.964-0.70443 17.611z"
+      />
+    </g
+    >
+    <g
+        id="g3705-6"
+        style="opacity:.47152"
+        transform="matrix(.17416 0 0 .17416 290.94 203.57)"
+      >
+      <path
+          id="path2816-8"
+          sodipodi:rx="168.57143"
+          sodipodi:ry="128.57143"
+          style="color:#000000;fill-rule:evenodd;fill:url(#radialGradient3713)"
+          sodipodi:type="arc"
+          d="m474.29 300.93a168.57 128.57 0 1 1 -337.14 0 168.57 128.57 0 1 1 337.14 0z"
+          transform="matrix(1.0778 0 0 1.4131 -22.172 213.57)"
+          sodipodi:cy="300.93362"
+          sodipodi:cx="305.71429"
+      />
+      <path
+          id="path3642-0"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;fill:#fffbfe"
+          d="m263.46 487.3c-62.944 30.015-90.829 79.999-100.74 139.48-13.728-62.642-3.1256-134.14 100.74-139.48z"
+      />
+      <path
+          id="path3644-2"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m320.88 550.23c15.201 10.46 34.28 16.477 36.673 34.985 10.996-9.8643 19.164-20.671 35.423-28.781-15.273-23.899-36.051-40.811-68.633-39.709-4.1602 9.3442-2.7877 22.419-3.4633 33.506z"
+      />
+      <path
+          id="path3646-1"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m450.83 688.88c2.63 84.7-48.49 101.15-114.82 107.77 59.55-14.65 103.95-44.45 114.82-107.77z"
+      />
+      <path
+          id="path3648-0"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m255 689.58c-8.9862 16.476-23.185 24.611-41.561 26.064 22.347 26.257 46.534 46.256 78.192 40.857v-37.335c-13.799-5.8894-26.57-14.349-36.63-29.586z"
+      />
+      <path
+          id="path3650-5"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m164.84 745.94c6.3446 2.1086 12.553 4.3533 13.384 11.975 2.4253-6.0793 4.2466-12.36 17.611-14.793-7.9482-8.1539-18.603-12.248-30.29-14.793-1.4536 6.4796-2.9169 12.964-0.70443 17.611z"
+      />
+    </g
+    >
+    <g
+        id="g3705-4"
+        style="opacity:.47152"
+        transform="matrix(.30210 0 0 .30210 222.74 233.84)"
+      >
+      <path
+          id="path2816-6"
+          sodipodi:rx="168.57143"
+          sodipodi:ry="128.57143"
+          style="color:#000000;fill-rule:evenodd;fill:url(#radialGradient3713)"
+          sodipodi:type="arc"
+          d="m474.29 300.93a168.57 128.57 0 1 1 -337.14 0 168.57 128.57 0 1 1 337.14 0z"
+          transform="matrix(1.0778 0 0 1.4131 -22.172 213.57)"
+          sodipodi:cy="300.93362"
+          sodipodi:cx="305.71429"
+      />
+      <path
+          id="path3642-2"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;fill:#fffbfe"
+          d="m263.46 487.3c-62.944 30.015-90.829 79.999-100.74 139.48-13.728-62.642-3.1256-134.14 100.74-139.48z"
+      />
+      <path
+          id="path3644-5"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m320.88 550.23c15.201 10.46 34.28 16.477 36.673 34.985 10.996-9.8643 19.164-20.671 35.423-28.781-15.273-23.899-36.051-40.811-68.633-39.709-4.1602 9.3442-2.7877 22.419-3.4633 33.506z"
+      />
+      <path
+          id="path3646-8"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m450.83 688.88c2.63 84.7-48.49 101.15-114.82 107.77 59.55-14.65 103.95-44.45 114.82-107.77z"
+      />
+      <path
+          id="path3648-6"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m255 689.58c-8.9862 16.476-23.185 24.611-41.561 26.064 22.347 26.257 46.534 46.256 78.192 40.857v-37.335c-13.799-5.8894-26.57-14.349-36.63-29.586z"
+      />
+      <path
+          id="path3650-2"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m164.84 745.94c6.3446 2.1086 12.553 4.3533 13.384 11.975 2.4253-6.0793 4.2466-12.36 17.611-14.793-7.9482-8.1539-18.603-12.248-30.29-14.793-1.4536 6.4796-2.9169 12.964-0.70443 17.611z"
+      />
+    </g
+    >
+    <g
+        id="g3705-9"
+        style="opacity:.47152"
+        transform="matrix(.11988 0 0 .11988 159.7 291.78)"
+      >
+      <path
+          id="path2816-9"
+          sodipodi:rx="168.57143"
+          sodipodi:ry="128.57143"
+          style="color:#000000;fill-rule:evenodd;fill:url(#radialGradient3713)"
+          sodipodi:type="arc"
+          d="m474.29 300.93a168.57 128.57 0 1 1 -337.14 0 168.57 128.57 0 1 1 337.14 0z"
+          transform="matrix(1.0778 0 0 1.4131 -22.172 213.57)"
+          sodipodi:cy="300.93362"
+          sodipodi:cx="305.71429"
+      />
+      <path
+          id="path3642-08"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;fill:#fffbfe"
+          d="m263.46 487.3c-62.944 30.015-90.829 79.999-100.74 139.48-13.728-62.642-3.1256-134.14 100.74-139.48z"
+      />
+      <path
+          id="path3644-1"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m320.88 550.23c15.201 10.46 34.28 16.477 36.673 34.985 10.996-9.8643 19.164-20.671 35.423-28.781-15.273-23.899-36.051-40.811-68.633-39.709-4.1602 9.3442-2.7877 22.419-3.4633 33.506z"
+      />
+      <path
+          id="path3646-3"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m450.83 688.88c2.63 84.7-48.49 101.15-114.82 107.77 59.55-14.65 103.95-44.45 114.82-107.77z"
+      />
+      <path
+          id="path3648-1"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m255 689.58c-8.9862 16.476-23.185 24.611-41.561 26.064 22.347 26.257 46.534 46.256 78.192 40.857v-37.335c-13.799-5.8894-26.57-14.349-36.63-29.586z"
+      />
+      <path
+          id="path3650-1"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m164.84 745.94c6.3446 2.1086 12.553 4.3533 13.384 11.975 2.4253-6.0793 4.2466-12.36 17.611-14.793-7.9482-8.1539-18.603-12.248-30.29-14.793-1.4536 6.4796-2.9169 12.964-0.70443 17.611z"
+      />
+    </g
+    >
+    <g
+        id="g3705-9-1"
+        style="opacity:.47152"
+        transform="matrix(.061717 0 0 .061717 221.24 355.7)"
+      >
+      <path
+          id="path2816-9-9"
+          sodipodi:rx="168.57143"
+          sodipodi:ry="128.57143"
+          style="color:#000000;fill-rule:evenodd;fill:url(#radialGradient3713)"
+          sodipodi:type="arc"
+          d="m474.29 300.93a168.57 128.57 0 1 1 -337.14 0 168.57 128.57 0 1 1 337.14 0z"
+          transform="matrix(1.0778 0 0 1.4131 -22.172 213.57)"
+          sodipodi:cy="300.93362"
+          sodipodi:cx="305.71429"
+      />
+      <path
+          id="path3642-08-6"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;fill:#fffbfe"
+          d="m263.46 487.3c-62.944 30.015-90.829 79.999-100.74 139.48-13.728-62.642-3.1256-134.14 100.74-139.48z"
+      />
+      <path
+          id="path3644-1-9"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m320.88 550.23c15.201 10.46 34.28 16.477 36.673 34.985 10.996-9.8643 19.164-20.671 35.423-28.781-15.273-23.899-36.051-40.811-68.633-39.709-4.1602 9.3442-2.7877 22.419-3.4633 33.506z"
+      />
+      <path
+          id="path3646-3-3"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m450.83 688.88c2.63 84.7-48.49 101.15-114.82 107.77 59.55-14.65 103.95-44.45 114.82-107.77z"
+      />
+      <path
+          id="path3648-1-3"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m255 689.58c-8.9862 16.476-23.185 24.611-41.561 26.064 22.347 26.257 46.534 46.256 78.192 40.857v-37.335c-13.799-5.8894-26.57-14.349-36.63-29.586z"
+      />
+      <path
+          id="path3650-1-8"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m164.84 745.94c6.3446 2.1086 12.553 4.3533 13.384 11.975 2.4253-6.0793 4.2466-12.36 17.611-14.793-7.9482-8.1539-18.603-12.248-30.29-14.793-1.4536 6.4796-2.9169 12.964-0.70443 17.611z"
+      />
+    </g
+    >
+    <g
+        id="g3705-0"
+        transform="matrix(.14702 0 0 .14702 164.74 339.96)"
+      >
+      <path
+          id="path2816-4"
+          sodipodi:rx="168.57143"
+          sodipodi:ry="128.57143"
+          style="color:#000000;fill-rule:evenodd;fill:url(#radialGradient3713)"
+          sodipodi:type="arc"
+          d="m474.29 300.93a168.57 128.57 0 1 1 -337.14 0 168.57 128.57 0 1 1 337.14 0z"
+          transform="matrix(1.0778 0 0 1.4131 -22.172 213.57)"
+          sodipodi:cy="300.93362"
+          sodipodi:cx="305.71429"
+      />
+      <path
+          id="path3642-6"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;fill:#fffbfe"
+          d="m263.46 487.3c-62.944 30.015-90.829 79.999-100.74 139.48-13.728-62.642-3.1256-134.14 100.74-139.48z"
+      />
+      <path
+          id="path3644-26"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m320.88 550.23c15.201 10.46 34.28 16.477 36.673 34.985 10.996-9.8643 19.164-20.671 35.423-28.781-15.273-23.899-36.051-40.811-68.633-39.709-4.1602 9.3442-2.7877 22.419-3.4633 33.506z"
+      />
+      <path
+          id="path3646-7"
+          sodipodi:nodetypes="ccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m450.83 688.88c2.63 84.7-48.49 101.15-114.82 107.77 59.55-14.65 103.95-44.45 114.82-107.77z"
+      />
+      <path
+          id="path3648-5"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m255 689.58c-8.9862 16.476-23.185 24.611-41.561 26.064 22.347 26.257 46.534 46.256 78.192 40.857v-37.335c-13.799-5.8894-26.57-14.349-36.63-29.586z"
+      />
+      <path
+          id="path3650-6"
+          sodipodi:nodetypes="ccccc"
+          style="fill-opacity:.80851;color:#000000;fill:#fffbfe"
+          d="m164.84 745.94c6.3446 2.1086 12.553 4.3533 13.384 11.975 2.4253-6.0793 4.2466-12.36 17.611-14.793-7.9482-8.1539-18.603-12.248-30.29-14.793-1.4536 6.4796-2.9169 12.964-0.70443 17.611z"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >soap bubbles</dc:title
+        >
+        <dc:date
+          >2011-03-21T23:14:17</dc:date
+        >
+        <dc:description
+          >soap bubbles</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/128689/soap-bubbles-by-brianin3d</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >brianin3d</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >bubbles</rdf:li
+            >
+            <rdf:li
+              >soap bubbles</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

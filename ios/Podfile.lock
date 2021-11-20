@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_sound_core (8.4.1)
+  - flutter_sound_lite (8.4.1):
+    - Flutter
+    - flutter_sound_core (= 8.4.1)
+  - path_provider (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_sound_lite (from `.symlinks/plugins/flutter_sound_lite/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+SPEC REPOS:
+  trunk:
+    - flutter_sound_core
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_sound_lite:
+    :path: ".symlinks/plugins/flutter_sound_lite/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_sound_core: bc4f63bc1ef33371b709513a2e3e9fb7a09f07bb
+  flutter_sound_lite: 7547011c13341edb128ece71d623ed5241ddc4c7
+  path_provider: d1e9807085df1f9cc9318206cd649dc0b76be3de
+
+PODFILE CHECKSUM: c48ae42c2c27bac7ab7358bd658d5268e3b767b3
+
+COCOAPODS: 1.10.0
